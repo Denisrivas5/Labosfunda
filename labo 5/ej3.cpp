@@ -1,4 +1,4 @@
-//ALO BISIESTO CON BOOLEANO
+//AÑO BISIESTO CON BOOLEANO
 
 #include <iostream>
 using namespace std;
